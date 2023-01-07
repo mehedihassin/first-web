@@ -1,0 +1,24 @@
+
+h1{
+    color: royalblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.blog{
+    color: rgb(23, 134, 224);
+    background-color: rgb(36, 19, 19);
+    margin: 10px 20px 10px 20px;
+    padding: 10px 10px 10px 10px ;
+    border: 2px solid;
+    border-radius: 3px;
+    text-align: justify;
+}
+.titel{
+    font-size: 20px;
+    color: rgb(52, 236, 6);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.aurther-name{
+    color: white;
+}
